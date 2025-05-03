@@ -1,0 +1,17 @@
+matplotlib==3.8.1
+numpy==1.26.1
+pandas==2.1.2
+scikit-learn==1.5.0
+streamlit==1.38.0
+folium==0.17.0
+geojson==3.1.0
+geopandas==0.14.0
+geopy==2.4.1
+jupyterlab_widgets==3.0.13
+opencage==2.4.0
+openrouteservice==2.3.3
+plotly==5.18.0
+pyarrow==17.0.0
+seaborn==0.13.0
+shapely==2.0.2
+streamlit_folium==0.22.0
